@@ -1,3 +1,4 @@
+// here we have used Recursion to find the minimun eleent in the array 
 public class minimumElement {
     public static void main(String[] args) {
         int[] arr = { 2, 4, 6, 5, 1 };
